@@ -1,0 +1,13 @@
+ENLACE DEL REPOSITORIO — QUIMBOMBO API
+=======================================
+
+Evidencia: GA7-220501096-AA5-EV03
+Proyecto:  Sistema de Inventario QUIMBOMBO
+
+Repositorio GitHub:
+https://github.com/TU_USUARIO/quimbombo-api
+
+INSTRUCCIONES:
+1. Reemplaza TU_USUARIO con tu usuario real de GitHub
+2. Sube el proyecto siguiendo los pasos del README.md
+3. Incluye este archivo en la carpeta comprimida final

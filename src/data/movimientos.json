@@ -1,0 +1,52 @@
+[
+  {
+    "id": "m001",
+    "tipo": "entrada",
+    "productoId": "p001",
+    "nombreProducto": "Almendras tostadas",
+    "cantidad": 20,
+    "fecha": "2025-03-01",
+    "responsable": "admin",
+    "observaciones": "Compra proveedor Los Andes"
+  },
+  {
+    "id": "m002",
+    "tipo": "salida",
+    "productoId": "p001",
+    "nombreProducto": "Almendras tostadas",
+    "cantidad": 5,
+    "fecha": "2025-03-03",
+    "responsable": "maria",
+    "observaciones": "Pedido cliente corporativo"
+  },
+  {
+    "id": "m003",
+    "tipo": "entrada",
+    "productoId": "p006",
+    "nombreProducto": "Mix energético QUIMBOMBO",
+    "cantidad": 100,
+    "fecha": "2025-03-05",
+    "responsable": "admin",
+    "observaciones": "Producción propia"
+  },
+  {
+    "id": "m004",
+    "tipo": "salida",
+    "productoId": "p002",
+    "nombreProducto": "Maní con miel",
+    "cantidad": 12,
+    "fecha": "2025-03-06",
+    "responsable": "carlos",
+    "observaciones": "Venta punto de venta"
+  },
+  {
+    "id": "m005",
+    "tipo": "entrada",
+    "productoId": "p003",
+    "nombreProducto": "Nueces mixtas",
+    "cantidad": 15,
+    "fecha": "2025-03-08",
+    "responsable": "admin",
+    "observaciones": "Importación Q1"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "u001",
+    "nombre": "Administrador QUIMBOMBO",
+    "username": "admin",
+    "password": "admin123",
+    "rol": "admin",
+    "activo": true,
+    "fechaCreacion": "2025-01-10"
+  },
+  {
+    "id": "u002",
+    "nombre": "María García",
+    "username": "maria",
+    "password": "emp123",
+    "rol": "empleado",
+    "activo": true,
+    "fechaCreacion": "2025-01-15"
+  },
+  {
+    "id": "u003",
+    "nombre": "Carlos Ruiz",
+    "username": "carlos",
+    "password": "emp123",
+    "rol": "empleado",
+    "activo": true,
+    "fechaCreacion": "2025-02-01"
+  }
+]
