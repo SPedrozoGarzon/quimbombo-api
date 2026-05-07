@@ -54,7 +54,7 @@ npm --version
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/quimbombo-api.git
+git clone https://github.com/SPedrozoGarzon/quimbombo-api.git
 cd quimbombo-api
 ```
 
@@ -181,7 +181,7 @@ Headers: x-username: admin | x-password: admin123
 
 ## 🔗 Repositorio
 
-**GitHub:** https://github.com/TU_USUARIO/quimbombo-api
+**GitHub:** https://github.com/SPedrozoGarzon/quimbombo-api
 
 > 
 
