@@ -183,14 +183,14 @@ Headers: x-username: admin | x-password: admin123
 
 **GitHub:** https://github.com/TU_USUARIO/quimbombo-api
 
-> 📌 Reemplaza `TU_USUARIO` con tu usuario real de GitHub antes de entregar.
+> 
 
 ---
 
 ## 👨‍💻 Autor
 
-**Nombre:** TU NOMBRE COMPLETO  
-**Ficha:** TU NÚMERO DE FICHA  
+**Nombre:** SAMUEL ANDRES PEDROZO GARZON
+**Ficha:** 3070401 
 **Programa:** Análisis y Desarrollo de Software  
 **Centro de Formación:** SENA  
 **Año:** 2025
